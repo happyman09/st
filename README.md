@@ -1,1 +1,2 @@
-pacman -S tty-jetbrains-mono tty-font-awesome
+#fonts (jetbrains mono & font awesome)
+sudo pacman -S ttf-jetbrains-mono ttf-font-awesome
